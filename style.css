@@ -1,0 +1,31 @@
+body {
+    padding-top: 120px;
+    background-color: #222629;
+    color: white;
+    text-align: center;
+}
+@font-face {
+    font-family: 'silly';
+    src: url('Lightersdemo-z8p30.otf') format('truetype');
+ }
+ h1 {
+   font-family: silly;
+   font-size: 64px;
+   padding-bottom: 60px;
+ }
+ h2 {
+    padding-top: 60px;
+    font-family: silly;
+    font-size: 32px;
+  }
+  .button {
+    background-color: blue; /* Green */
+    border: none;
+    color: white;
+     padding: 15px 32px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}  
